@@ -3,7 +3,8 @@ Instagram Knockoff project for SOEN341
 
 
 ### Group Members
-Bradley Walsh, Student ID: 40063018, GitHub: BradWalsh97
-
-Jonathan Grant, Student ID: 40025875, GitHub: TheLilGrant
-
+|       Name                |       Student ID          |       GitHub              |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|Bradley Walsh              |40063018                   |BradWalsh97                |
+|Jonathan Grant             |40025875                   |TheLilGrant                |
+|Christian Galante          |40006461                   |NihlathakTheNecromancer    |
