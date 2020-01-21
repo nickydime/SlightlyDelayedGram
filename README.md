@@ -2,5 +2,5 @@
 Instagram Knockoff project for SOEN341
 
 
-# Group Members
+### Group Members
 Bradley Walsh, 40063018
